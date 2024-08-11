@@ -1,2 +1,2 @@
 # MRU-AIML3B-Parv-Gupta
-Assignment 1 Questions
+Repository for Python SL Assignments.
